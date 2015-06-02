@@ -1,7 +1,7 @@
 # Spirit Animals
 Author: R. Sean Thackurdeen
 
-My spirit animal is an rabbit.
+My spirit animal is a rabbit.
 
 - Rabbits are cautious.
 - Rabbits are soft.
